@@ -9,8 +9,15 @@ p a {
   font-family: serif;
   font-size: 30px;
 }
-p a:hover {
+p a:hover,
+p a:focus {
   text-shadow: rgb(255, 238, 0) 1px 0 10px;
+}
+p a:active {
+  color: #212121;
+}
+p a:visited {
+  color: #6c1507;
 }
 .gallery {
   display: grid;
