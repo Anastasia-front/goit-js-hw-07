@@ -1,1 +1,1 @@
-# goit-js-hw-07
+# patterns and event optimization
